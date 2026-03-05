@@ -124,7 +124,8 @@ nav:
   - index.md
   - FAQ: "General/FAQ.md"
   - Installation:
-      - "Installation Guide": General/Installation_Guide/index.md
+      - "Installing Bazzite": General/Installation_Guide/index.md
+      - "Installation Guide": General/Installation_Guide/install-guide.md
       - "Post-Installation Setup": General/Installation_Guide/post-installation.md
       - "Installation Troubleshoot Guide": General/Installation_Guide/troubleshoot_guide.md
       - "Legacy ISO Installation Guide": General/Installation_Guide/legacy-install.md
