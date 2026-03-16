@@ -21,7 +21,8 @@ https://www.youtube.com/watch?v=lBqbk6Z8HrQ
 - A 16GB+ bootable medium like a Flash Drive
 - One of the following programs to flash/boot the ISO:
   - **Ventoy** ([Windows, Linux](https://www.ventoy.net/))
-  - **Fedora Media Writer** ([**Windows/macOS**](https://github.com/FedoraQt/MediaWriter/releases), [**Linux**](https://flathub.org/en/apps/org.fedoraproject.MediaWriter))
+  - **Fedora Media Writer** ([Windows/macOS](https://github.com/FedoraQt/MediaWriter/releases), [Linux](https://flathub.org/en/apps/org.fedoraproject.MediaWriter))
+  - **Rufus** ([Windows](https://rufus.ie/)) (DD Image mode required)
 - A physical wired keyboard is **recommended** and **required for devices without a touchscreen**.
   - An on-screen keyboard exists for scenarios where you do not have a physical USB keyboard.
     - A touchscreen display or a mouse is required to navigate the installer properly.
