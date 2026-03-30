@@ -33,7 +33,7 @@ To have the tray icon appear automatically on login, create a manual autostart e
 ### Create the autostart folder and file
 ```bash
 mkdir -p ~/.config/autostart/
-nano ~/.config/autostart/lam-gui-tray.desktop
+nano ~/.config/autostart/ArctisManagerSystray.desktop
 ```
 ### Paste in configuration
 
